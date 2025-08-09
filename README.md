@@ -4,11 +4,11 @@ A Flask web application that generates funny, viral-worthy tweets using AI and a
 
 ## Features
 
-- 🤖 **AI-Powered Tweet Generation**: Uses Groq's LLM models to generate humorous tweets
-- 🔄 **Iterative Optimization**: Automatically improves tweets based on AI feedback
-- 🔐 **X OAuth Integration**: Secure login with X API for posting tweets
-- 🎨 **Modern UI**: Clean, responsive interface with Twitter-like design
-- 📱 **Mobile Friendly**: Works seamlessly on desktop and mobile devices
+-  **AI-Powered Tweet Generation**: Uses Groq's LLM models to generate humorous tweets
+-  **Iterative Optimization**: Automatically improves tweets based on AI feedback
+-  **X OAuth Integration**: Secure login with X API for posting tweets
+-  **Modern UI**: Clean, responsive interface with Twitter-like design
+-  **Mobile Friendly**: Works seamlessly on desktop and mobile devices
 
 ## Setup
 
@@ -98,3 +98,4 @@ The application consists of:
 ## License
 
 This project is for educational purposes. Please respect X's API terms of service.
+
