@@ -17,7 +17,7 @@ app.secret_key = os.urandom(24)  # For sessions
 # X API OAuth 2.0 settings
 CLIENT_ID = os.getenv("CLIENT_ID")
 CLIENT_SECRET = os.getenv("CLIENT_SECRET")
-REDIRECT_URI = "http://127.0.0.1:5000/callback"  # Update for production
+REDIRECT_URI = "https://tweetgolive.onrender.com/callback"  # Update for production
 AUTH_URL = "https://twitter.com/i/oauth2/authorize"
 TOKEN_URL = "https://api.twitter.com/2/oauth2/token"
 
